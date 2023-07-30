@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
 		fontSize: 20
 	},
 
-	/*HOME*/
+	/* HOME */
 	center: {
 		justifyContent: 'center',
 		alignItems: 'center'
